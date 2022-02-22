@@ -1,5 +1,10 @@
 ### კომპიუტერული მეცნიერებები 👋
 
+### ვებ-გვერდები დამწყები პროგრამისტებისთვის
+
+
+### ვებ-გვერდები სკოლაში პროგრამირების საფუძვლების შესწავლისთვის
+
 ### ვებ პლატფორმები Python-თვის
 * [ხატვის რეჯიმი](https://pythonturtle.org/)     ხატვის რეჟიმის კოდინგი
 * [სხვადასხვა გამოწვევები](https://hourofpython.com/)   სხვადასხვა სირთულის გამოწვევები
@@ -19,7 +24,7 @@
 * [Python  Practical Python Programming For Beginners and Experts](https://drive.google.com/file/d/1oCfwrzyZ-TVTh9D-ofWKb5txYuaoBF5k/view?usp=sharing)
 * [Python for Kids_ A Playful Introduction to Programming ](https://drive.google.com/file/d/1OpCDepg1rN02SRsI_OR-nK0YZCQpskjk/view?usp=sharing)
 * [Python Tricks_ A Buffet of Awesome Python Features](https://drive.google.com/file/d/1rED5Vv0VsE1rqI0LkFV0xYmG8oXnFXTE/view?usp=sharing)
-* 
+
 
 ### წიგნები ალგორითმებზე
 
@@ -29,4 +34,4 @@
 
 ### წიგნები ხელოვნურ ინტელექტზე
 * [Artificial Unintelligence How Computers Misunderstand the World by Meredith Broussard](https://drive.google.com/file/d/1QLzphkn_MtlMS5aHoRC-aHorDrisk4dm/view?usp=sharing)
-* 
+
