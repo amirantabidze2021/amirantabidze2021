@@ -1,7 +1,25 @@
 ### კომპიუტერული მეცნიერებები 👋
 
 ### ვებ-გვერდები დამწყები პროგრამისტებისთვის
-
+* [Code.org](https://code.org/)
+* [Tutorialspoint](https://www.tutorialspoint.com/index.htm)
+* [developer Mozilla](https://developer.mozilla.org/en-US/)
+* [freecodecamp](https://www.freecodecamp.org/)
+* [thenewboston](https://thenewboston.com/)
+* [generalassemb](https://dash.generalassemb.ly/)
+* [silent teacher](https://silentteacher.toxicode.fr/)
+* [codingame](https://www.codingame.com/start)
+* [w3schools](https://www.w3schools.com/)
+* [htmldog](https://htmldog.com/)
+* [solo learn](https://www.sololearn.com/home)
+* [css garden](http://cssgridgarden.com/)
+* [hacker earth](https://www.hackerearth.com/practice/)
+* [javascript30](https://javascript30.com/)
+* [CS first](https://csfirst.withgoogle.com/s/en/home)
+* [codeavengers](https://www.codeavengers.com/)
+* [codecombat](https://codecombat.com/)
+* [codecademy](https://www.codecademy.com/)
+* [teamtreehouse](https://teamtreehouse.com/)
 
 ### ვებ-გვერდები სკოლაში პროგრამირების საფუძვლების შესწავლისთვის
 
