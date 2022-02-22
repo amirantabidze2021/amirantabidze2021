@@ -22,6 +22,26 @@
 * [teamtreehouse](https://teamtreehouse.com/)
 
 ### ვებ-გვერდები სკოლაში პროგრამირების საფუძვლების შესწავლისთვის
+* [CoderDojo](https://coderdojo.com/resources/)
+* [Allcancode](https://www.allcancode.com/)
+* [Codemonkey](https://www.codemonkey.com/)
+* [Blockly](https://blockly.games/)
+* [Groklearning](https://groklearning.com/hoc/)
+* [Tynker](https://www.tynker.com/hour-of-code/)
+* [CodeCombat](https://codecombat.com/play?hour_of_code=true)
+* [Codeavengers](https://learn.codeavengers.com/javascript/100#1.1)
+* [Codespark](https://codespark.com/hour-of-code)
+* [App inventor](http://appinventor.mit.edu/explore/hour-of-code.html)
+* [Sparkfun](http://sparkfun.codepops.com/#0)
+* [Codecademy](https://www.codecademy.com/catalog)
+* [Khan Academy](https://www.khanacademy.org/hourofcode/)
+* [Scratch](https://scratch.mit.edu/ideas)
+* [Code.org](https://studio.code.org/hoc/1)
+* [Processing](https://hello.processing.org/editor/)
+* [Crunchzilla](http://www.crunchzilla.com/)
+* [Swift](https://www.apple.com/au/swift/playgrounds/)
+* [CS unplugged](https://www.csunplugged.org/en/)
+* [Makeschool](https://makeschool.org/)
 
 ### ვებ პლატფორმები Python-თვის
 * [ხატვის რეჯიმი](https://pythonturtle.org/)     ხატვის რეჟიმის კოდინგი
