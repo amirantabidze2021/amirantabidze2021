@@ -65,6 +65,12 @@
 * [python challenges](https://type.withcode.uk/)
 * [თვითმასწავლებელი](https://silentteacher.toxicode.fr/hour_of_code.html?theme=basic_python)  ეტაპობრივად ასრულებთ დავალებებს და ნელ-ნელა სწავლობთ **კოდის კითხვას** და მის გაანალიზებას.
 
+### Competetive programming
+* https://www.hackerrank.com/
+* https://projecteuler.net/archives
+* https://leetcode.com/problemset/all/
+* https://www.topcoder.com/challenges/
+* https://www.coderbyte.com/challenges
 
 ### Python წიგნები
 
@@ -74,6 +80,15 @@
 * [Python  Practical Python Programming For Beginners and Experts](https://drive.google.com/file/d/1oCfwrzyZ-TVTh9D-ofWKb5txYuaoBF5k/view?usp=sharing)
 * [Python for Kids_ A Playful Introduction to Programming ](https://drive.google.com/file/d/1OpCDepg1rN02SRsI_OR-nK0YZCQpskjk/view?usp=sharing)
 * [Python Tricks_ A Buffet of Awesome Python Features](https://drive.google.com/file/d/1rED5Vv0VsE1rqI0LkFV0xYmG8oXnFXTE/view?usp=sharing)
+* [python For Everybody](https://drive.google.com/file/d/1yH6ythj332jmgvR9bHKiJUoI_gUX3YyY/view?usp=share_link)
+* [ Python by Example ](https://drive.google.com/file/d/1ax41U2gT2fLJdmqmrZl7r4G88XVjvQJY/view?usp=share_link)
+* [Think like a programmer](https://drive.google.com/file/d/10xTdDkVnvJRmRbAUyaAXSY7F56pGvRfq/view?usp=share_link)
+
+
+### Python მონაცემთა ანალიზისთვის
+
+*[Python for Data Analysis](https://drive.google.com/file/d/1zECz5F89lYygUiX2f-LaCAHSbRjY_0Yz/view?usp=share_link)
+*[doing math with python doing math with python](https://drive.google.com/file/d/1K6N66ZHtSW-1YPdByr9zF3X9LUDtPVtc/view?usp=share_link)
 
 
 ### წიგნები ალგორითმებზე
