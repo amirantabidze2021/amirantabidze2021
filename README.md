@@ -88,6 +88,7 @@
 ### Python მონაცემთა ანალიზისთვის
 
 *[Python for Data Analysis](https://drive.google.com/file/d/1zECz5F89lYygUiX2f-LaCAHSbRjY_0Yz/view?usp=share_link)
+
 *[doing math with python doing math with python](https://drive.google.com/file/d/1K6N66ZHtSW-1YPdByr9zF3X9LUDtPVtc/view?usp=share_link)
 
 
