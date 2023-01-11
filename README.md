@@ -95,7 +95,7 @@
 ### წიგნები ალგორითმებზე
 
 * [ Algorithms to Live By - Brian Christian, Tom Griffiths](https://drive.google.com/file/d/1s270GSaxq60RuJ-pdnySP1KTtWsAKngj/view?usp=sharing)
-* [მონაცემთა სტრუქტურები და ალგორითმები](https://drive.google.com/file/d/1PjtQQuDAICXx4zNaY3ZBNcp4HTXpyFP5/view?usp=sharing)
+* [მონაცემთა სტრუქტურები და ალგორითმები](https://drive.google.com/file/d/1x2J5cH2IQXkSTb1I2VRBKeNtc08Cm_Ac/view?usp=sharing)
 
 
 ### წიგნები ხელოვნურ ინტელექტზე
